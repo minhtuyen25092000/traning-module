@@ -1,0 +1,22 @@
+{
+"name": "minhtuyen25092000/traning-module",
+"description": "For testing",
+"keywords": [
+"minhtuyen25092000"
+],
+"authors": [
+{
+"name": "minhtuyen25092000",
+"email": "minhtuyen25092000@gmail.com"
+}
+],
+"license": "MIT",
+"require": {
+},
+"autoload": {
+"psr-4": {
+"minhtuyen25092000\\module\\": "/"
+}
+},
+"minimum-stability": "dev"
+}
